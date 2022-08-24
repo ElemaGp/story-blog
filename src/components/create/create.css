@@ -1,0 +1,40 @@
+.create {
+    display: block;
+    
+    max-width: fit-content;
+    margin-left: 600px;
+    
+}
+
+
+.create__form  input, select {
+    display: block;
+    text-align: left;  
+    width: 200%;
+    padding: 0.7rem;
+    margin: 10px 0;
+    resize: none;
+    border: solid rgb(120, 120, 192);
+}
+
+.create__form textarea {
+    display: block;
+    text-align: left;  
+    width: 200%;
+    padding: 0.7rem;
+    margin: 10px 0;
+    resize: none;
+    border: solid rgb(120, 120, 192);
+}
+
+.create > form label {
+    text-align: left;    
+    display: block;
+}
+
+.create .btn {
+    margin-top: 1rem;
+}
+
+
+

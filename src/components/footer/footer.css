@@ -1,0 +1,32 @@
+
+
+.footer__container {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    padding: 3rem;
+    position: relative;
+    align-items: center;
+    margin-top: 4rem;
+    
+}
+
+.footer__socials {
+    display: flex;
+    gap: 0.8rem;
+}
+
+.footer__centered {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+
+
+.footer__contact {
+    position: absolute;
+    right: 35rem;
+    
+    
+}

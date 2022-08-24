@@ -1,0 +1,84 @@
+.read__stories {
+   margin-top: 20rem;
+   border: solid;
+   background-color: rgb(132, 190, 178);
+   border-color: aqua;
+   border-radius: 0 0 2rem 2rem;
+   height: fit-content;
+   transition: all 400ms ease;
+}
+
+.read__stories:hover {
+   background-color: rgb(93, 231, 231);
+}
+
+.read__heading {
+   display: flex;
+   gap: 2rem;
+   justify-content: center;
+   background: aqua;
+   padding: 2rem;
+   border-radius: 0 0 2rem 2rem;
+   box-shadow: 0 0.8rem 0.8rem hsla(199, 30%, 63%, 0.102);
+   
+}
+
+
+.read__heading a {
+   align-self: center;
+   
+}
+
+.story__preview {
+   
+   
+   display: flex;
+   margin-left: 43%;
+   gap: 2rem;
+   margin-top: 1rem;
+   
+   
+   
+}
+
+.story__preview .story__icon {
+   align-self: center;
+
+}
+
+.story__peek {
+   font-size: large;
+   padding: 1rem;
+}
+
+.story__peek > a h2,p {
+   
+   margin: 0;
+}
+
+
+
+
+
+.story__peek:hover {
+   box-shadow: 1px 3px 5px red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+

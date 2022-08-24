@@ -1,0 +1,34 @@
+{
+  "stories": [
+    {
+      "title": "The Little Pigs",
+      "body": "We all know the story of the three pigs. They pig huffed and puffed and only the pig with the strongly built house survived. THE END",
+      "author": "John",
+      "id": 1
+    },
+    {
+      "title": "Animal Farm",
+      "body": "This is the story about politics in the animal kingdom. A wonderful satirical piece. THE END.",
+      "author": "Chris",
+      "id": 2
+    },
+    {
+      "title": "The Green Mile",
+      "body": "The rivetting story of the innocent man who was wrongly sentenced to death. THE END.",
+      "author": "Stephen King",
+      "id": 3
+    },
+    {
+      "title": "Hitman 3",
+      "body": "Prologue\n\nThe mysterious man walked into the store. He was dressed in a dark hoodie and a matching pair of boots. On a less busy day, he would have stood out like a sore thumb, but the supermarket was packed full today.\nGradually, he made his way towards his target...",
+      "author": "John Grisham",
+      "id": 6
+    },
+    {
+      "title": "The Hitman final",
+      "body": "Prologue\n\nThe mysterious man walked into the store. He was dressed in a dark hoodie and a matching pair of boots. On a less busy day, he would have stood out like a sore thumb, but the supermarket was packed full today.\nGradually, he made his way towards his target...",
+      "author": "Godspower Elema",
+      "id": 7
+    }
+  ]
+}

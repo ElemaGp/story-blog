@@ -1,0 +1,9 @@
+.download__book-center {
+    margin-top: 5rem;
+}
+
+.download__book-side {
+    width: 12rem;
+    position: absolute;
+    top: 2rem;
+}
